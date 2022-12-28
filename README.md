@@ -34,9 +34,9 @@ Bharadwaj Chukkala is currently a Master's student in Robotics at the University
 
 - #### Textbooks followed in the course
 
-  - **[Learning from Data](bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf)** by Yaser S. Abu Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin
+  - **[Learning from Data](https://github.com/bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/blob/main/Learning%20From%20Data.pdf)** by Yaser S. Abu Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin
     Some chapters of this book are e-chaper which can be found in [here](https://amlbook.com/eChapters.html).
-  - **[Hands On Machine Learning with Scikit-Learn, Keras and Tensorflow](bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf)** by Aurélien Géron
+  - **[Hands On Machine Learning with Scikit-Learn, Keras and Tensorflow]([bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf](https://github.com/bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/blob/main/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf))** by Aurélien Géron
 - #### Dependencies
 
   - [Python](https://www.python.org)
