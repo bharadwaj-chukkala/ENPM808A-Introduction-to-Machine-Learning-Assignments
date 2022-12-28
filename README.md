@@ -9,9 +9,9 @@
 
 ## Personnel:
 
-**Bharadwaj Chukkala** `<br>`
-UID: 118341705 `<br>`
-Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning.`<br>`
+**Bharadwaj Chukkala** <br>
+UID: 118341705 <br>
+Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning.<br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bchukkal@umd.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharadwaj-chukkala/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwaj-chukkala)
@@ -34,16 +34,16 @@ Bharadwaj Chukkala is currently a Master's student in Robotics at the University
 
 - #### Textbooks followed in the course
 
-  - **[Learning from Data]()** by Yaser S. Abu Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin
+  - **[Learning from Data](bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf)** by Yaser S. Abu Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin
     Some chapters of this book are e-chaper which can be found in [here](https://amlbook.com/eChapters.html).
-  - **[Hands On Machine Learning with Scikit-Learn, Keras and Tensorflow]()** by Aurélien Géron
+  - **[Hands On Machine Learning with Scikit-Learn, Keras and Tensorflow](bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf)** by Aurélien Géron
 - #### Dependencies
 
   - [Python](https://www.python.org)
   - [Scikit-Learn](https://scikit-learn.org/stable/)
   - [NumPy](https://numpy.org/)
   - IDE: VSCode, Spyder, PyCharm etc.
-- #### [Final Project]()
+- #### [Final Project](https://github.com/bharadwaj-chukkala/Data-driven-motion-planning-using-various-machine-learning-algorithms)
 
 ## License
 
