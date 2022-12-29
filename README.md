@@ -32,18 +32,22 @@ Bharadwaj Chukkala is currently a Master's student in Robotics at the University
 
 ## Instructions
 
-- #### Textbooks followed in the course
+- ### Textbooks followed in the course
 
   - **[Learning from Data](https://github.com/bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/blob/main/Learning%20From%20Data.pdf)** by Yaser S. Abu Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin.
   - Some chapters of the book Learning from Data are available only as e-chapers which can be found [here](https://amlbook.com/eChapters.html).
   - **[Hands On Machine Learning with Scikit-Learn, Keras and Tensorflow]([bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf](https://github.com/bharadwaj-chukkala/ENPM808A-Introduction-to-Machine-Learning-Assignments/blob/main/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow.pdf))** by Aurélien Géron
-- #### Dependencies
+- ### Dependencies
 
   - [Python](https://www.python.org)
   - [Scikit-Learn](https://scikit-learn.org/stable/)
   - [NumPy](https://numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Keras](https://keras.io/)
+  - [Tensorflow](https://www.tensorflow.org/)
   - IDE: VSCode, Spyder, PyCharm etc.
-- #### [Final Project](https://github.com/bharadwaj-chukkala/Data-driven-motion-planning-using-various-machine-learning-algorithms)
+  
+- ### [Final Project](https://github.com/bharadwaj-chukkala/Data-driven-motion-planning-using-various-machine-learning-algorithms)
 
 ## License
 
