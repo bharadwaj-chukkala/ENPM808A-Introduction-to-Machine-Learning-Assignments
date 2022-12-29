@@ -45,6 +45,7 @@ Bharadwaj Chukkala is currently a Master's student in Robotics at the University
   - [Pandas](https://pandas.pydata.org/)
   - [Keras](https://keras.io/)
   - [Tensorflow](https://www.tensorflow.org/)
+  - [Matplotlib](https://matplotlib.org/)
   - IDE: VSCode, Spyder, PyCharm etc.
   
 - ### [Final Project](https://github.com/bharadwaj-chukkala/Data-driven-motion-planning-using-various-machine-learning-algorithms)
